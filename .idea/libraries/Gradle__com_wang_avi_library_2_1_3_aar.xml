@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wang.avi:library:2.1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/d99ed50b1da6463122cbbc8d30f706bc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/d99ed50b1da6463122cbbc8d30f706bc/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/d99ed50b1da6463122cbbc8d30f706bc/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
